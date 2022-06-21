@@ -83,7 +83,9 @@ Die Alarm Message im Webex Space sollte in etwa so aussehen. Gerne könnt ihr di
 </p>
 
 
-Nun ist es an euch, sich Erweiterungen zu überlegen. Zum Beispiel:
+### Nun ist es an euch, sich Erweiterungen zu überlegen. 
+
+Zum Beispiel:
 * Ausgabe der Webex Nachricht als "Card"
 * Automtisches Abfragen der NGROK Tunnel Adresse
 * und setzen des Webhooks über die API mit der erstellten NGROK Tunnel Adresse aus dem Script heraus
