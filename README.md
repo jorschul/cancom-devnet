@@ -93,3 +93,14 @@ die Alarm Message als *CARD* könnte so aussehen:
 <img src="./Alarmmessage_card.jpg">
 </p>
 
+als kleiner Tipp für die Abfrage des NGROK Tunnels
+
+```Python
+import ngrokhelper
+
+LOCAL_BOT_PORT=80
+bot_url = ngrokhelper.get_public_url(local_port=LOCAL_BOT_PORT)
+
+print (bot_url)
+```
+
