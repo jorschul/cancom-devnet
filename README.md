@@ -7,6 +7,8 @@ für das Training könnt ihr euch bitte alle Lib´s aus der requirements.txt Dat
 pip install -r requirements.txt
 ```
 
+
+
 ### Mittwoch Session 16:20 Uhr
 Meraki MT Sensor overview with all auto generated for uses cases
 
@@ -22,6 +24,8 @@ so sollte es nun aussehen:
 <p align="center"> 
 <img src="./Temperatur.jpg">
 </p>
+
+
 
 ### Donnerstag Session 9:30 Uhr
 Create a Webhook receiver for alarm messagges from Meraki IoT devices.
