@@ -13,11 +13,16 @@ Meraki MT Sensor overview with all auto generated for uses cases
 
 In der ersten Aufgabe fragen wir die Meraki API nach der Temperatur des jeweiligen Sensors in eurer Meraki Organisation.
 
-Den fertigen Code für die erste Aufgabe findet ihr in der Datei Temperatur.py
+Den fertigen Code für die erste Aufgabe findet ihr in der Datei **Temperatur.py**
 Hier bitte die Sensor ID mit der von euch tauschen. Achtet auch, dass ihr den richtigen Meraki Access Token als Umgebungsvariable setzt.
 
 ### Donnerstag Session 9:30 Uhr
 Create a Webhook receiver for alarm messagges from Meraki IoT devices.
+
+Die zweite Aufgabe umfasst 
+* das Anlegen eines Webhooks im Meraki Dashboard
+* das Aufsezen eines Webservers, der auf die Events des Webhook hört und diese Ausgibt
+* das Nutzen von NGROK als Tunel Dienst zu eurem Webserver
 
 ### Donnerstag Session 10:45 Uhr
 Providing messages to Webex Teams/alarm spaces
