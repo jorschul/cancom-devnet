@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 
 
-### Mittwoch Session 16:20 Uhr
+## Mittwoch Session 16:20 Uhr
 Meraki MT Sensor overview with all auto generated for uses cases
 
 In der ersten Aufgabe fragen wir die Meraki API nach der Temperatur des jeweiligen Sensors in eurer Meraki Organisation.
@@ -39,7 +39,7 @@ so sollte es nun aussehen:
 
 
 
-### Donnerstag Session 9:30 Uhr
+## Donnerstag Session 9:30 Uhr
 Create a Webhook receiver for alarm messagges from Meraki IoT devices.
 
 Die zweite Aufgabe umfasst 
@@ -61,7 +61,7 @@ ngrok http 80
 
 
 
-### Donnerstag Session 10:45 Uhr
+## Donnerstag Session 10:45 Uhr
 Providing messages to Webex Teams/alarm spaces
 
 Nach dem wir nun einen Webserver besitzen, der die Alarmmeldungen von Meraki empfangen und ausgeben kann wollen wir dieses Programm dahin erweitern, das die Ausgabe in einem Webex Space erfolgt.
@@ -83,7 +83,7 @@ Die Alarm Message im Webex Space sollte in etwa so aussehen. Gerne könnt ihr di
 </p>
 
 
-### Nun ist es an euch, sich Erweiterungen zu überlegen. 
+## Nun ist es an euch, sich Erweiterungen zu überlegen. 
 
 Zum Beispiel:
 * Ausgabe der Webex Nachricht als "Card"
