@@ -20,6 +20,18 @@ Temperatur.py
 ```
 Hier bitte die Network ID mit der von euch tauschen. Achtet auch, dass ihr den richtigen Meraki Access Token als Umgebungsvariable setzt. Die **Serial** Number des Sensors im Querystring muss angepasst werden.
 
+Die Ausgabe der Daten mitels Figlet ist nur eine optionale Spielerei:
+```Python
+# Ausgabe der Daten 
+f = Figlet(font='banner3')
+cls()
+print (f.renderText(Temp))
+print ('\nTEMP MIN')
+print (f.renderText(Tempmin))
+print ('\nTEMP MAX')
+print (f.renderText(Tempmax))
+```
+
 so sollte es nun aussehen:
 <p align="center"> 
 <img src="./Temperatur.jpg">
