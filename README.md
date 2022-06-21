@@ -13,7 +13,9 @@ Meraki MT Sensor overview with all auto generated for uses cases
 In der ersten Aufgabe fragen wir die Meraki API nach der Temperatur des jeweiligen Sensors in eurer Meraki Organisation.
 
 Den fertigen Code für die erste Aufgabe findet ihr in der Datei 
-```**Temperatur.py**```
+```
+Temperatur.py
+```
 Hier bitte die Network ID mit der von euch tauschen. Achtet auch, dass ihr den richtigen Meraki Access Token als Umgebungsvariable setzt. Die **Serial** Number des Sensors im Querystring muss angepasst werden.
 
 ### Donnerstag Session 9:30 Uhr
