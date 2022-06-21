@@ -88,7 +88,7 @@ Nun ist es an euch, sich Erweiterungen zu überlegen. Zum Beispiel:
 * Automtisches Abfragen der NGROK Tunnel Adresse
 * und setzen des Webhooks über die API mit der erstellten NGROK Tunnel Adresse aus dem Script heraus
 
-die Alarm Message al *CARD* könnte so aussehen:
+die Alarm Message als *CARD* könnte so aussehen:
 <p align="center"> 
 <img src="./Alarmmessage_card.jpg">
 </p>
