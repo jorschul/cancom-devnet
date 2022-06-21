@@ -20,7 +20,7 @@ Hier bitte die Network ID mit der von euch tauschen. Achtet auch, dass ihr den r
 
 so sollte es nun aussehen:
 <p align="center"> 
-<img src="./temperatur.jpg">
+<img src="./Temperatur.jpg">
 </p>
 
 ### Donnerstag Session 9:30 Uhr
