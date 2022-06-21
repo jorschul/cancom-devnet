@@ -18,6 +18,11 @@ Temperatur.py
 ```
 Hier bitte die Network ID mit der von euch tauschen. Achtet auch, dass ihr den richtigen Meraki Access Token als Umgebungsvariable setzt. Die **Serial** Number des Sensors im Querystring muss angepasst werden.
 
+so sollte es nun aussehen:
+<p align="center"> 
+<img src="./temperatur.jpg">
+</p>
+
 ### Donnerstag Session 9:30 Uhr
 Create a Webhook receiver for alarm messagges from Meraki IoT devices.
 
