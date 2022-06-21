@@ -77,6 +77,12 @@ Den fertigen Code für die dritte Aufgabe findet ihr in der Datei
 Webhook_receiver_Webex.py
 ```
 
+Die Alarm Message im Webex Space sollte in etwa so aussehen. Gerne könnt ihr diese anpassen:
+<p align="center"> 
+<img src="./Alarmmessage.jpg">
+</p>
+
+
 Nun ist es an euch, sich Erweiterungen zu überlegen. Zum Beispiel:
 * Ausgabe der Webex Nachricht als "Card"
 * Automtisches Abfragen der NGROK Tunnel Adresse
