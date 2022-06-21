@@ -3,7 +3,7 @@
 
 für das Training könnt ihr euch bitte alle Lib´s aus der requirements.txt Datei installieren.
 
-````shell
+```shell
 pip install -r requirements.txt
 ```
 
